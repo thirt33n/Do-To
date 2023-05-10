@@ -1,5 +1,9 @@
 # Do-To
-Do-To is a daily task managing App made using React-Native and Firebase
+Do-To is a daily task managing App made using React-Native and Firebase.
+
+## You can create your account and login to your add your own tasks
+
+The Authentication and Storage Services are provided by the Firestore cloud and can be accessed from any android device.
 
 
 
